@@ -11,7 +11,7 @@ DEMO的使用说明以及与声网、腾讯云RTC的对比测试请参考《QOS-
 注意：本DEMO目前加入了使用时长等限制，仅用于演示用途。
 
 ![Alt](http://www.mediapro.cc/wp-content/uploads/2019/04/1-1.png)
-![Alt](http://www.mediapro.cc/wp-content/uploads/2019/04/3.png)
+![Alt](http://www.mediapro.cc/wp-content/uploads/2019/04/5.png)
 
 
 
