@@ -4,7 +4,7 @@
 本仓库通过屏幕共享DEMO演示了点对点弱网传输SDK的使用。
 
 ## SDT点对点弱网传输SDK介绍
-本SDK依托QOS-FEC-NACK传输层内核，用于解决3G、4G、WIFI网络时面临的丢包、乱序、重复、抖动等问题。SDK采用极简的接口设计，让用户快速集成。具体接口文档请参考：https://mediapro.apifox.cn
+本SDK依托QOS-FEC-NACK传输层内核，用于解决3G、4G、WIFI网络时面临的丢包、乱序、重复、抖动等问题。SDK采用极简的接口设计，让用户快速集成。
 
 
 ## DEMO说明
@@ -22,15 +22,16 @@
  
 ![3.png](https://api.apifox.cn/api/v1/projects/2558265/resources/382270/image-preview)
 
-4. 跟多高级参数可通过配置文件ScreenShareDemo.ini中手工设置，比如
-AutoResolutionEnable用于控制是否使能分辨率自适应，允许码率降低到一定程度时降低分辨率以降低块效应。
-LongTimeRefEnable用于控制是否使能长期参考帧机制，目前仅在软编码时支持长期参考帧机制，该机制可以提高弱网下画面的流畅性，但对编码画质有较大副作用。
+4. 跟多高级参数可通过配置文件ScreenShareDemo.ini中手工设置，比如<br>
+AutoResolutionEnable用于控制是否使能分辨率自适应，允许码率降低到一定程度时降低分辨率以降低块效应。<br>
+LongTimeRefEnable用于控制是否使能长期参考帧机制，目前仅在软编码时支持长期参考帧机制，该机制可以提高弱网下画面的流畅性，但对编码画质有较大副作用。<br>
 
 5. 本投屏Windows端可以与Android端互通
 
-![Alt](http://www.mediapro.cc/wp-content/uploads/2019/04/1-1.png)
-![Alt](http://www.mediapro.cc/wp-content/uploads/2019/04/5.png)
+# 相关资源
+跟多文档、代码资源见：https://mediapro.apifox.cn
 
+SDK 商用及定制化、技术支持服务可联系：[http://www.mediapro.cc/](http://www.mediapro.cc/)
 
 
 
