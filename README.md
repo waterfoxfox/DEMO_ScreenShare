@@ -1,7 +1,7 @@
 ﻿
 # 跨平台屏幕共享演示DEMO（Windows Android）
 
-本仓库通过屏幕共享DEMO演示了点对点弱网传输SDK的使用。
+本仓库通过屏幕共享DEMO演示了点对点弱网传输SDK的使用，支持Andorid和Windows互通投屏。
 
 ## SDT点对点弱网传输SDK介绍
 本SDK依托QOS-FEC-NACK传输层内核，用于解决3G、4G、WIFI网络时面临的丢包、乱序、重复、抖动等问题。SDK采用极简的接口设计，让用户快速集成。
@@ -27,6 +27,8 @@ AutoResolutionEnable用于控制是否使能分辨率自适应，允许码率降
 LongTimeRefEnable用于控制是否使能长期参考帧机制，目前仅在软编码时支持长期参考帧机制，该机制可以提高弱网下画面的流畅性，但对编码画质有较大副作用。<br>
 
 5. 本投屏Windows端可以与Android端互通
+
+6. Windows播放端暂未提供网卡选择功能，将使用系统默认网卡(IP)
 
 # 相关资源
 跟多文档、代码资源见：https://mediapro.apifox.cn
