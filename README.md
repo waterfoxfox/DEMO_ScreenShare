@@ -32,10 +32,10 @@ LongTimeRefEnable用于控制是否使能长期参考帧机制，目前仅在软
 
 ## Android DEMO说明
 
-1. 输入对方投屏码即可
+1. 输入对方投屏码即可<br>
 ![1.jpg](https://api.apifox.cn/api/v1/projects/2558265/resources/382986/image-preview)
 
-2. 可通过UI设置投屏参数
+2. 可通过UI设置投屏参数<br>
 ![2.jpg](https://api.apifox.cn/api/v1/projects/2558265/resources/382991/image-preview)
 
 
